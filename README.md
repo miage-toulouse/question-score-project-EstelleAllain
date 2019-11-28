@@ -1,10 +1,10 @@
 # MIAGe Master 1 - TP Tests 1
 
-### NOM : DOE
-### Prénom : John
+### NOM : ALLAIN
+### Prénom : Estelle
 ### Groupe de TP : 
-- [ ] 1
-- [x] 2
+- [x] 1
+- [ ] 2
 - [ ] 3
 
 
