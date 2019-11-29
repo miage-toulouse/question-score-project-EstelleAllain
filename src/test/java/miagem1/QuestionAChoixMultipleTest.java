@@ -37,7 +37,7 @@ public class QuestionAChoixMultipleTest {
         reponse.add(3);
         // and : on demande le score de l'indice à la question
         float resScore = questionChoixMultiple.getScoreForIndice(reponse.get(0));
-        resScore = resScore+ questionChoixMultiple.getScoreForIndice(reponse.get(0));
+        resScore = resScore+ questionChoixMultiple.getScoreForIndice(reponse.get(1));
 
         // then : le score obtenu est 100
         assertEquals(100f, resScore, 0.01f);
